@@ -19,12 +19,11 @@ Controls · Electrified Powertrains · Thermal Systems · Mathematical Modelling
 2 years industry (Earthsense Inc.) · 3.5 years Formula SAE Technical Lead · Research Assistant, Stellantis/DOE Battery Workforce Challenge
 
 ```yaml
-name       : Abhishek Kedage
-degree     : M.S. Automotive Engineering @ Clemson University (GPA: 4.0/4.0)
-location   : Greenville, SC, USA
-available  : Summer 2026 (June 1 start) through Fall 2026
-seeking    : Internships — Powertrain Controls | BMS | Thermal Systems | Vehicle Dynamics
-focus      : Electrified Powertrains · BMS Algorithms · Thermal Management · Model-Based Controls
+Education     : M.S. Automotive Engineering @ Clemson University (GPA: 4.0/4.0)
+Location   : Greenville, SC, USA
+Available  : Summer 2026 (June 1 start) through Fall 2026
+Seeking    : Internships — Powertrain Controls | BMS | Thermal Systems | Vehicle Dynamics
+Focus      : Electrified Powertrains · BMS Algorithms · Thermal Management · Model-Based Controls
 ```
 
 Graduate researcher at **Clemson University (CU-ICAR)** with 2 years of industry experience at **Earthsense Inc.** and 3.5 years leading powertrain and thermal subsystems at **Formula SAE** (Team Octane Racing Electric — 2nd place nationally). I work at the intersection of battery state estimation, thermal controls, and vehicle dynamics — designing and validating systems from the governing equations up.
