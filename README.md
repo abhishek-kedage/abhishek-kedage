@@ -7,7 +7,7 @@ M.S. Automotive Engineering · Clemson University · GPA 4.0/4.0
 
 Controls · Electrified Powertrains · Thermal Systems · Mathematical Modelling
 
-</div>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20Kedage-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhihsekkedage/)
 [![Email](https://img.shields.io/badge/Email-kedageabhishek%40outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kedageabhishek@outlook.com)
 [![Resume](https://img.shields.io/badge/Resume-Download-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](YOUR_RESUME_LINK)
