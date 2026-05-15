@@ -8,9 +8,10 @@ M.S. Automotive Engineering · Clemson University · GPA 4.0/4.0
 Controls · Electrified Powertrains · Thermal Systems · Mathematical Modelling
 
 </div>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-kedageabhishek%40outlook.com-grey?style=flat&logo=gmail)](mailto:kedageabhishek@outlook.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-abhishekkedage.github.io-0f4c75?style=flat)](https://YOUR_GITHUB_USERNAME.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20Kedage-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhihsekkedage/)
+[![Email](https://img.shields.io/badge/Email-kedageabhishek%40outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kedageabhishek@outlook.com)
+[![Resume](https://img.shields.io/badge/Resume-Download-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](YOUR_RESUME_LINK)
+[![Portfolio](https://img.shields.io/badge/Portfolio-PDF-0f4c75?style=for-the-badge&logo=files&logoColor=white)](YOUR_PORTFOLIO_LINK)
 
 ---
 
