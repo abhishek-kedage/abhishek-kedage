@@ -5,10 +5,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0f4c75&height=200&section=header&text=Abhishek%20Kedage&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Controls%20%7C%20Electrified%20Powertrains%20%7C%20Mathematical%20Modelling&descAlignY=58&descColor=88c0d0" />
 M.S. Automotive Engineering · Clemson University · GPA 4.0/4.0
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20Kedage-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhihsekkedage/)
-[![Email](https://img.shields.io/badge/Email-kedageabhishek%40outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kedageabhishek@outlook.com)
-[![Resume](https://img.shields.io/badge/Resume-Download-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](YOUR_RESUME_LINK)
-[![Portfolio](https://img.shields.io/badge/Portfolio-PDF-0f4c75?style=for-the-badge&logo=files&logoColor=white)](YOUR_PORTFOLIO_LINK)
 Controls · Electrified Powertrains · Thermal Systems · Mathematical Modelling
 
 </div>
