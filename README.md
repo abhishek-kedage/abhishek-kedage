@@ -24,12 +24,12 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│  name       →  Abhishek Kedage                                  │
-│  degree     →  M.S. Automotive Engineering @ Clemson (4.0 GPA)  │
-│  location   →  Greenville, SC, USA                              │
-│  available  →  Summer 2026 (June 1) — Fall 2026                 │
-│  seeking    →  Powertrain Controls | BMS | Thermal | Dynamics   │
-│  focus      →  Electrified Powertrains · State Estimation ·     │
+│                                  │
+│  Degree     →  M.S. Automotive Engineering @ Clemson (4.0 GPA)  │
+│  Location   →  Greenville, SC, USA                              │
+│  Available  →  Summer 2026 (June 1) — Fall 2026                 │
+│  Seeking    →  Powertrain Controls | BMS | Thermal | Dynamics   │
+│  Focus      →  Electrified Powertrains · State Estimation ·     │
 │               Thermal Controls · Model-Based Design             │
 └─────────────────────────────────────────────────────────────────┘
 ```
@@ -111,11 +111,11 @@ Ground-up design of a 72V 6.2 kWh NMC racing battery pack — cell selection, 20
 
 ---
 
-## `$ tail -n 3 current.log`
+## `Current Projects`
 
 ```
 [ACTIVE]  Deep Orange 18    →  Powertrain sizing, high-speed autonomous vehicle (Clemson)
-[ACTIVE]  DD13 Engine Dyno  →  Alternate fuel CI engine testing & data acquisition
+
 [OPEN]    Internship 2026   →  Available June 1 — USA (Powertrain · BMS · Thermal · Dynamics)
 ```
 
