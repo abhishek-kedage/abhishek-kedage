@@ -1,171 +1,134 @@
 <!-- Header -->
 <div align="center">
-## Abhishek Kedage
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0f4c75&height=200&section=header&text=Abhishek%20Kedage&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Controls%20%7C%20Electrified%20Powertrains%20%7C%20Mathematical%20Modelling&descAlignY=58&descColor=88c0d0" />
-M.S. Automotive Engineering · Clemson University · GPA 4.0/4.0
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:111111,100:0a0a0a&height=160&text=ABHISHEK%20KEDAGE&fontSize=42&fontColor=f59e0b&fontAlignY=45&desc=Controls%20%E2%80%A2%20Electrified%20Powertrains%20%E2%80%A2%20Mathematical%20Modelling&descAlignY=68&descColor=78716c&descSize=14" />
 
-Controls · Electrified Powertrains · Thermal Systems · Mathematical Modelling
+<br/>
 
+![](https://img.shields.io/badge/MS%20Automotive%20Engineering-Clemson%20University-f59e0b?style=flat-square&labelColor=111111)
+![](https://img.shields.io/badge/GPA-4.0%20%2F%204.0-f59e0b?style=flat-square&labelColor=111111)
+![](https://img.shields.io/badge/Status-Seeking%20Summer%202026%20Internship-22c55e?style=flat-square&labelColor=111111)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20Kedage-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhihsekkedage/)
-[![Email](https://img.shields.io/badge/Email-kedageabhishek%40outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kedageabhishek@outlook.com)
-[![Resume](https://img.shields.io/badge/Resume-Download-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](YOUR_RESUME_LINK)
-[![Portfolio](https://img.shields.io/badge/Portfolio-PDF-0f4c75?style=for-the-badge&logo=files&logoColor=white)](YOUR_PORTFOLIO_LINK)
+<br/>
 
----
-
-## 👋 About Me
-2 years industry (Earthsense Inc.) · 3.5 years Formula SAE Technical Lead · Research Assistant, Stellantis/DOE Battery Workforce Challenge
-
-```yaml
-Education     : M.S. Automotive Engineering @ Clemson University (GPA: 4.0/4.0)
-Location   : Greenville, SC, USA
-Available  : Summer 2026 (June 1 start) through Fall 2026
-Seeking    : Internships — Powertrain Controls | BMS | Thermal Systems | Vehicle Dynamics
-Focus      : Electrified Powertrains · BMS Algorithms · Thermal Management · Model-Based Controls
-```
-
-Graduate researcher at **Clemson University (CU-ICAR)** with 2 years of industry experience at **Earthsense Inc.** and 3.5 years leading powertrain and thermal subsystems at **Formula SAE** (Team Octane Racing Electric — 2nd place nationally). I work at the intersection of battery state estimation, thermal controls, and vehicle dynamics — designing and validating systems from the governing equations up.
-
----
-
-## 🔧 Technical Skills
-
-<div align="center">
-
-| Domain | Tools & Technologies |
-|---|---|
-| **Controls** | MPC · PID · Kalman Filter (EKF) · Fuzzy Logic · Stateflow · State-space modeling |
-| **Simulation & Modelling** | MATLAB · Simulink · Simscape · Stateflow · Scilab · CarSim |
-| **BMS Algorithms** | SOC estimation (EKF) · SOP estimation (Thevenin) · CC-CV charging control |
-| **Thermal Systems** | Battery thermal management · Motor cooling · Heat exchanger design · CFD (ANSYS Fluent) |
-| **CAD & CAE** | CATIA V5 · SolidWorks · Creo · Fusion 360 · Siemens NX · Ansys |
-| **Programming** | MATLAB/Simulink (primary) · Python · C++ (Arduino) · Shell · YAML · Docker |
-| **Methods** | HPPC testing · BSFC mapping · NTU method · Thermal resistance networks · Git |
-
-</div>
-Available for Summer 2026 internships (June 1) in the USA.
-
----
-
-## 🚀 Featured Projects
-
-### 🔄 [4WID-MPC Vehicle Stability Control](./4wid-mpc-stability-control)
-> `MATLAB` `Simulink` `CarSim` `Fuzzy Logic` `MPC` `Stateflow`
-### Projects
-
-Hierarchical stability controller for a 4-wheel-independent-drive EV: Mamdani fuzzy upper layer generates corrective yaw moment; MPC lower layer allocates optimal wheel torques via a **custom Hildreth QP solver** (no Optimization Toolbox required). Validated in CarSim across three ISO maneuvers.
-
-- 🏎️ Tight DLC (120 km/h): Peak yaw rate **144 → 47 deg/s** (67% reduction)
-- 🧊 Low-μ DLC (μ=0.3): Yaw rate bounded to **±13 deg/s** vs 77 deg/s uncontrolled; sideslip near zero vs ~−140° spin-out
-- 🌊 Sine-wave steer: **75% peak sideslip reduction**; lateral position drift halved
-| | Project | Stack | Key Result |
-|---|---|---|---|
-| 🔄 | [4WID-MPC Vehicle Stability Control](./4wid-mpc-stability-control) | MATLAB · Simulink · CarSim · Fuzzy + MPC | Yaw rate 144 → 47 deg/s · 75% sideslip reduction |
-| ⚡ | [Hybrid / EV / ICE Powertrain Simulation](./hybrid-ev-ice-powertrain-sim) | MATLAB · Simulink · Stateflow | 64 MPG HEV · 819-mile range |
-| 🔋 | [BMS — SOC & SOP Estimation](./bms-soc-sop-estimation) | MATLAB · Simulink · EKF · Stateflow | 110 kWh pack · Stellantis/DOE |
-| 🌡️ | [Motor Thermal Management](./formula-sae-motor-thermal-management) | CATIA V5 · ANSYS Fluent · Arduino | 40% pump energy reduction · 4.8 kW managed |
-| 📡 | [Sensor Fusion & Adaptive Cruise Control](./adaptive-cruise-control-sensor-fusion) | Arduino C++ · Kalman Filter · PID | < 3 mm accuracy · 200 Hz loop |
-| 🏎️ | [Formula SAE Accumulator Design](./formula-sae-accumulator-design) | CATIA · ANSYS · MATLAB · Simulink | 72V 6.2 kWh · 80 cells · 40g FEA validated |
-
----
-
-### ⚡ [Hybrid, Electric & ICE Powertrain Simulation](./hybrid-ev-ice-powertrain-sim)
-> `MATLAB` `Simulink` `Stateflow` `Energy Management`
-
-Forward-facing vehicle simulation comparing ICE, BEV, and series–parallel HEV under real-world drive cycles. Rule-based Stateflow EMS with Economy and Sport modes controlling engine, motor, clutch, regen, and charging states.
-
-- 🔥 ICE: **43 MPG** — BSFC-optimized 6-speed gear shift, 2.0L NA
-- ⚡ BEV: **181-mile range** — 40.8 kWh, BorgWarner HVH250, PID thermal control
-- 🏁 HEV: **64 MPG / 819-mile range** — 1.5L + HPEVS AC-23, 90 kW combined
-
----
-
-### 🔋 [BMS Algorithms — SOC & SOP Estimation](./bms-soc-sop-estimation)
-> `MATLAB` `Simulink` `Stateflow` `Kalman Filter` `Thevenin Model`
-
-**U.S. DOE Battery Workforce Challenge (Stellantis)** — BMS algorithm development and thermal controls for a 110 kWh production vehicle battery pack.
-
-- Extended Kalman Filter SOC estimation on Thevenin equivalent circuit with temperature-dependent parameters
-- SOP estimation via voltage-constraint method using 2D R0(SOC, T) lookup tables
-- Stateflow CC-CV charging controller with fault detection and safety interlocks
-- Thermal design: **8.9 kW peak heat load** — coolant channel sizing and thermal control logic
-
----
-
-### 🌡️ [Motor Thermal Management System](./formula-sae-motor-thermal-management)
-> `CATIA V5` `ANSYS Fluent` `MATLAB` `Arduino C++`
-
-**Formula SAE — Team Octane Racing Electric.** Liquid cooling system for a 32 kW racing motor triggering thermal shutdowns at 85°C. Thermal resistance network → CATIA jacket design → ANSYS CFD → Arduino PID controller.
-
-- 🌡️ **4.8 kW** heat load managed; motor held below 80°C during endurance
-- 📉 **40% pump energy reduction** via closed-loop PID speed control
-- 🔬 CFD: **15 kPa** pressure drop, **6°C** coolant ΔT — validated before manufacturing
-- 🏆 Car finished **2nd place nationally** at Formula Bharat (India)
-
----
-
-### 🚗 [Sensor Fusion & Adaptive Cruise Control](./adaptive-cruise-control-sensor-fusion)
-> `Arduino C++` `Kalman Filter` `PID` `Sensor Fusion`
-
-Dual HC-SR04 sensor fusion with Kalman filtering, deployed on an RC vehicle with independent PID controllers for ACC (throttle) and lane keeping (steering) at ~200 Hz.
-
-- 📏 **< 3 mm** distance accuracy · Fusion convergence: **600 ms → 250 ms**
-- ✅ Track completion: **12.6 s**, all 5 checkpoints cleared
-
----
-
-### 🏎️ [Formula SAE — Accumulator Design](./formula-sae-accumulator-design)
-> `CATIA V5` `ANSYS` `MATLAB` `Simulink`
-
-Ground-up design of a **72V, 6.2 kWh NMC racing battery pack** (Formula Bharat 2022): OpenLap energy simulation → cell selection → 20s4p architecture → segment design → Orion BMS 2 integration → Simulink models (cell, pack, CC-CV, heat dissipation).
-
-- 80 cells across 5 segments, all validated to **40g longitudinal/lateral, 20g vertical** (FEA)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishek-kedage&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-kedage&layout=compact&theme=tokyonight&hide_border=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kedageabhishek@outlook.com)
+[![Resume](https://img.shields.io/badge/Resume-f59e0b?style=for-the-badge&logo=adobeacrobatreader&logoColor=black)](YOUR_RESUME_LINK)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=github&logoColor=f59e0b)](https://YOUR_GITHUB_USERNAME.github.io)
 
 </div>
 
 ---
 
-## 🎓 Currently Working On
-### Skills
+## `$ whoami`
 
 ```
-🏎️  Deep Orange 18    —  Powertrain sizing for high-speed autonomous vehicle (Clemson)
-🛢️  DD13 Engine Dyno  —  Alternate fuel CI engine testing & data acquisition
-Controls          MPC · PID · EKF · Fuzzy Logic · Stateflow · State-space
-BMS               SOC/SOP estimation · CC-CV control · Thevenin model · HPPC testing
-Thermal           Battery & motor thermal management · CFD (ANSYS Fluent) · Resistance networks
-Simulation        MATLAB · Simulink · Simscape · CarSim · Scilab
-CAD / CAE         CATIA V5 · SolidWorks · Creo · Ansys · Fusion 360
-Programming       MATLAB (primary) · Python · C++ · Shell · Docker
+┌─────────────────────────────────────────────────────────────────┐
+│  name       →  Abhishek Kedage                                  │
+│  degree     →  M.S. Automotive Engineering @ Clemson (4.0 GPA)  │
+│  location   →  Greenville, SC, USA                              │
+│  available  →  Summer 2026 (June 1) — Fall 2026                 │
+│  seeking    →  Powertrain Controls | BMS | Thermal | Dynamics   │
+│  focus      →  Electrified Powertrains · State Estimation ·     │
+│               Thermal Controls · Model-Based Design             │
+└─────────────────────────────────────────────────────────────────┘
 ```
+
+2 years industry @ **Earthsense Inc.** &nbsp;·&nbsp; 3.5 years Formula SAE Technical Lead &nbsp;·&nbsp; Research Assistant, **Stellantis / U.S. DOE** Battery Workforce Challenge
 
 ---
 
-## 🏢 Experience Highlights
+## `$ cat skills.txt`
 
-**Earthsense Inc.** *(System Engineer, 2 years)* — EV and hybrid powertrain development for autonomous inspection robots. Extended runtime 3 hrs → 10 hrs via EV-to-hybrid architecture shift. Dockerized system integration with Python/Shell.
+<div align="center">
 
-**Clemson University** *(Research Assistant — Battery Workforce Challenge, Stellantis/DOE)* — BMS algorithms (SOC/SOP) + thermal controls design for 110 kWh production battery pack.
+| | Domain | Stack |
+|:---:|---|---|
+| ⚙️ | **Controls** | MPC · EKF · PID · Fuzzy Logic · Stateflow · State-space |
+| 🔋 | **BMS Algorithms** | SOC/SOP estimation · Thevenin model · CC-CV control · HPPC |
+| 🌡️ | **Thermal Systems** | Battery thermal mgmt · Motor cooling · CFD (ANSYS Fluent) |
+| 📐 | **Simulation** | MATLAB · Simulink · Simscape · CarSim · Stateflow · Scilab |
+| 🔩 | **CAD / CAE** | CATIA V5 · SolidWorks · Creo · Ansys · Fusion 360 |
+| 💻 | **Programming** | MATLAB · Python · C++ (Arduino) · Shell · Docker · Git |
 
-**Team Octane Racing Electric** *(Technical Lead, 3.5 years, 40-member team)* — Powertrain and thermal subsystems across multiple Formula SAE vehicles. HPPC cell testing, Thevenin model parameter extraction, motor cooling, battery pack architecture.
+</div>
+
+---
+
+## `$ ls projects/`
+
+### &nbsp;`01` &nbsp;[4WID-MPC Vehicle Stability Control](./4wid-mpc-stability-control)
+`MATLAB` `Simulink` `CarSim` `MPC` `Fuzzy Logic`
+
+Hierarchical yaw stability controller — Mamdani fuzzy upper layer + MPC torque allocator with a custom Hildreth QP solver. Validated in CarSim across three ISO maneuvers.
+
+> Tight DLC: yaw rate **144 → 47 deg/s** &nbsp;·&nbsp; Sine-wave: **75% sideslip reduction**
+
+---
+
+### &nbsp;`02` &nbsp;[Hybrid / EV / ICE Powertrain Simulation](./hybrid-ev-ice-powertrain-sim)
+`MATLAB` `Simulink` `Stateflow`
+
+Forward-facing vehicle simulation comparing ICE, BEV, and HEV with Stateflow energy management (Economy + Sport modes) controlling engine, motor, clutch, regen, and charging.
+
+> ICE **43 MPG** &nbsp;·&nbsp; BEV **181 mi range** &nbsp;·&nbsp; HEV **64 MPG / 819 mi**
+
+---
+
+### &nbsp;`03` &nbsp;[BMS — SOC & SOP Estimation](./bms-soc-sop-estimation)
+`MATLAB` `Simulink` `EKF` `Stateflow`
+
+EKF-based SOC and voltage-constraint SOP estimation for a **110 kWh** production battery pack. U.S. DOE Battery Workforce Challenge in collaboration with **Stellantis**.
+
+> CC-CV Stateflow charging controller &nbsp;·&nbsp; **8.9 kW** peak heat load thermal design
+
+---
+
+### &nbsp;`04` &nbsp;[Motor Thermal Management System](./formula-sae-motor-thermal-management)
+`CATIA V5` `ANSYS Fluent` `Arduino C++`
+
+Liquid cooling for a 32 kW racing motor at Formula SAE — thermal resistance network → CATIA jacket → ANSYS CFD → Arduino PID. Car finished **2nd nationally** at Formula Bharat.
+
+> **40% pump energy reduction** &nbsp;·&nbsp; 4.8 kW managed &nbsp;·&nbsp; 15 kPa pressure drop (CFD)
+
+---
+
+### &nbsp;`05` &nbsp;[Sensor Fusion & Adaptive Cruise Control](./adaptive-cruise-control-sensor-fusion)
+`Arduino C++` `Kalman Filter` `PID`
+
+Dual ultrasonic sensor fusion with Kalman filter driving independent PID controllers for ACC and lane keeping at ~200 Hz on Arduino.
+
+> **< 3 mm** accuracy &nbsp;·&nbsp; convergence **600 → 250 ms** &nbsp;·&nbsp; 5/5 checkpoints
+
+---
+
+### &nbsp;`06` &nbsp;[Formula SAE — Accumulator Design](./formula-sae-accumulator-design)
+`CATIA V5` `ANSYS` `MATLAB` `Simulink`
+
+Ground-up design of a 72V 6.2 kWh NMC racing battery pack — cell selection, 20s4p architecture, Orion BMS 2, FEA, and full Simulink modelling suite.
+
+> 80 cells &nbsp;·&nbsp; **40g FEA validated** &nbsp;·&nbsp; Formula Bharat 2022
+
+---
+
+## `$ tail -n 3 current.log`
+
+```
+[ACTIVE]  Deep Orange 18    →  Powertrain sizing, high-speed autonomous vehicle (Clemson)
+[ACTIVE]  DD13 Engine Dyno  →  Alternate fuel CI engine testing & data acquisition
+[OPEN]    Internship 2026   →  Available June 1 — USA (Powertrain · BMS · Thermal · Dynamics)
+```
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c75,50:1a1f2e,100:0d1117&height=120&section=footer" />
+![](https://img.shields.io/badge/Controls-MPC%20%7C%20EKF%20%7C%20Fuzzy-f59e0b?style=flat-square&labelColor=111111)
+![](https://img.shields.io/badge/BMS-SOC%20%7C%20SOP%20%7C%20CC--CV-f59e0b?style=flat-square&labelColor=111111)
+![](https://img.shields.io/badge/Thermal-CFD%20%7C%20Motor%20%7C%20Battery-f59e0b?style=flat-square&labelColor=111111)
+![](https://img.shields.io/badge/Simulation-MATLAB%20%7C%20Simulink%20%7C%20CarSim-f59e0b?style=flat-square&labelColor=111111)
 
-*Available for Summer 2026 internships (June 1 start) — Powertrain Controls · BMS · Thermal Systems · Vehicle Dynamics — USA*
+<br/>
+<sub>kedageabhishek@outlook.com &nbsp;·&nbsp; +1 (864) 304 9776 &nbsp;·&nbsp; Greenville, SC</sub>
 
 </div>
